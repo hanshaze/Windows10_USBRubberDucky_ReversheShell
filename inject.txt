@@ -1,3 +1,4 @@
+REM USB Rubber Ducky Windows 10 Download File
 DELAY 500
 CONTROL ESCAPE
 DELAY 100
